@@ -2,4 +2,4 @@
 
 |S.No.| Challenge Name | Points |
 |:---:|:--------------:|:------:|
-|1|[WhatIsThis](WhatIsThis/)|10|
+|1|[WhatIsThis](WhatIsThis/)|20|
